@@ -1,4 +1,4 @@
-Neural Networks course 2021-2022 assignments at ECE NTUA. In total, 3 projects were created.
+Neural Networks course 2021-2022 assignments at ECE NTUA. In total, 3 projects in Python were created.
 
 ✅ In <b>NN_1a.ipynb</b> and <b>NN_1b.ipynb</b>, various classification algorithms were implemented with the Grid Search method in [a UCI dataset](https://archive.ics.uci.edu/ml/datasets/Planning+Relax) and a [Kaggle dataset](https://www.kaggle.com/datasets/muhakabartay/sloan-digital-sky-survey-dr16). <br>
 
